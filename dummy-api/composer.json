@@ -11,5 +11,8 @@
             "name": "lead7070"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpstan/phpstan": "^2.1",
+        "phpunit/phpunit": "^13.1"
+    }
 }
