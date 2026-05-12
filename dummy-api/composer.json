@@ -1,0 +1,15 @@
+{
+    "name": "prajyotmane/dummy-api",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Prajyotmane\\DummyApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lead7070"
+        }
+    ],
+    "require": {}
+}
