@@ -1,0 +1,3 @@
+Learning PHP File I/O
+Date: 12-05-2026
+Adding more data via FILE_APPEND
